@@ -5,6 +5,7 @@ A simplified payment platform built with Django, inspired by PayPal but without 
 # PayFriend - Django Payment Platform
 
 A simplified payment platform built with Django, inspired by PayPal but without real money transactions. This project demonstrates secure web application development with comprehensive security features, database management, and cloud deployment.
+
 <img width="599" height="275" alt="image" src="https://github.com/user-attachments/assets/dc8271d5-8be3-4e64-b7ad-85edd5dae39d" />
 <img width="609" height="221" alt="image" src="https://github.com/user-attachments/assets/de7dcef4-8b4e-473a-b25c-53a09d3204d0" />
 <img width="606" height="448" alt="image" src="https://github.com/user-attachments/assets/e3d43a70-123f-4e8d-a71b-aa7b16ed0979" />
@@ -60,7 +61,7 @@ A simplified payment platform built with Django, inspired by PayPal but without 
 ## Clone and Navigate to Project
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/JonasPapinigis/PayFriend.git
 cd webapps2025
 ```
 
